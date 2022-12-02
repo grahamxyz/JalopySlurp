@@ -1,0 +1,22 @@
+{
+  "name": "jalopy-slurp",
+  "version": "0.0.1",
+  "description": "Web scraper for Jalopy Jungle",
+  "main": "scrape/scraper.js",
+  "dependencies": {
+    "selenium-webdriver": "^4.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamxyz/JalopySlurp.git"
+  },
+  "author": "Graham Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahamxyz/JalopySlurp/issues"
+  },
+  "homepage": "https://github.com/grahamxyz/JalopySlurp#readme"
+}
