@@ -4,6 +4,8 @@
   "description": "Web scraper for Jalopy Jungle",
   "main": "scrape/scraper.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "pg": "^8.8.0",
     "selenium-webdriver": "^4.6.1"
   },
   "scripts": {
